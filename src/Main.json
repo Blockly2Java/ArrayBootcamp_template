@@ -62,6 +62,14 @@
                 "VAR": {
                   "id": "a1*?E_0ZN^vjSx8A,Z-+"
                 }
+              },
+              "inputs": {
+                "VALUE": {
+                  "block": {
+                    "type": "logic_null",
+                    "id": ".#R~:I}_j]okafn.:]Pr"
+                  }
+                }
               }
             }
           },
@@ -205,6 +213,14 @@
               "fields": {
                 "VAR": {
                   "id": "3L~{G4=lVjX[VwWeNCip"
+                }
+              },
+              "inputs": {
+                "VALUE": {
+                  "block": {
+                    "type": "logic_null",
+                    "id": "Lc;#tAJtl{0/j!ly~QC^"
+                  }
                 }
               }
             }
