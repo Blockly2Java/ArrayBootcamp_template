@@ -5,8 +5,8 @@
       {
         "type": "java_static_method_noreturn",
         "id": "0-~]xj!ER5LuqkjtzKSY",
-        "x": 106,
-        "y": 98,
+        "x": -12,
+        "y": -173,
         "extraState": "<mutation xmlns=\"http://www.w3.org/1999/xhtml\"></mutation>",
         "icons": {
           "comment": {
@@ -18,8 +18,235 @@
         },
         "fields": {
           "NAME": "main"
+        },
+        "inputs": {
+          "STACK": {
+            "block": {
+              "type": "text_println",
+              "id": "?nLErIh9kDT13Eo-}k{M",
+              "inputs": {
+                "TEXT": {
+                  "shadow": {
+                    "type": "text",
+                    "id": "t6Ct-o,0+e9vhA)Z?TlV",
+                    "fields": {
+                      "TEXT": "abc"
+                    }
+                  },
+                  "block": {
+                    "type": "java_static_method_call_return",
+                    "id": "8sX%eSekM,Sft6VT?xHU",
+                    "extraState": "<mutation xmlns=\"http://www.w3.org/1999/xhtml\" method=\"aufgabe1\" args=\"0\"></mutation>"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "type": "java_static_method_return",
+        "id": "VrM*3.|p]43]/5=%lWyP",
+        "x": -15,
+        "y": -73,
+        "extraState": "<mutation xmlns=\"http://www.w3.org/1999/xhtml\"></mutation>",
+        "fields": {
+          "NAME": "aufgabe1"
+        },
+        "inputs": {
+          "STACK": {
+            "block": {
+              "type": "java_local_var_set",
+              "id": "U29sH?$vGYGS2fA/{hfk",
+              "fields": {
+                "VAR": {
+                  "id": "a1*?E_0ZN^vjSx8A,Z-+"
+                }
+              }
+            }
+          },
+          "RETURN": {
+            "block": {
+              "type": "java_local_var_get",
+              "id": "w+n;H1Q4HvuGu7/[l]J{",
+              "fields": {
+                "VAR": {
+                  "id": "a1*?E_0ZN^vjSx8A,Z-+"
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "type": "java_static_method_return",
+        "id": "Y:Mg?yGt{|~gqyjDEYyV",
+        "x": -17,
+        "y": 308,
+        "extraState": "<mutation xmlns=\"http://www.w3.org/1999/xhtml\"><arg name=\"String[] arr\" varid=\"_~qm%BF%~U`$5-w{[!}9\"></arg></mutation>",
+        "fields": {
+          "NAME": "aufgabe3"
+        }
+      },
+      {
+        "type": "java_static_method_return",
+        "id": "F[y,*sLZ,-9fhh.}vXOC",
+        "x": -16,
+        "y": 439,
+        "extraState": "<mutation xmlns=\"http://www.w3.org/1999/xhtml\"><arg name=\"int[] arr\" varid=\"W8_qiK8R!yF665s]]!{P\"></arg></mutation>",
+        "fields": {
+          "NAME": "aufgabe4"
+        }
+      },
+      {
+        "type": "java_static_method_return",
+        "id": "q8]tfZ#DDU_$+l.=pRah",
+        "x": -17,
+        "y": 727,
+        "extraState": "<mutation xmlns=\"http://www.w3.org/1999/xhtml\"><arg name=\"int[] arr\" varid=\"BFY`Oyi]AFX;5c4lRIq7\"></arg></mutation>",
+        "fields": {
+          "NAME": "aufgabe6"
+        },
+        "inputs": {
+          "RETURN": {
+            "block": {
+              "type": "java_param_get",
+              "id": "~J1{!,6sVgtJjB89C~sP",
+              "fields": {
+                "VAR": {
+                  "id": "Gs/!r}y*[3tR7-[^Pa+{"
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "type": "java_static_method_return",
+        "id": "ko(u{ZuLC-ufI+`@56iC",
+        "x": -18,
+        "y": 926,
+        "extraState": "<mutation xmlns=\"http://www.w3.org/1999/xhtml\"><arg name=\"int[] arr\" varid=\"xSL1eCR0nL,a5.y)$er=\"></arg></mutation>",
+        "fields": {
+          "NAME": "aufgabe7"
+        },
+        "inputs": {
+          "STACK": {
+            "block": {
+              "type": "java_local_var_set",
+              "id": "pINjLT}MOJwweFrPK~H+",
+              "fields": {
+                "VAR": {
+                  "id": "_FpkfTP{qtq:Rc0KxavG"
+                }
+              },
+              "inputs": {
+                "VALUE": {
+                  "block": {
+                    "type": "math_number",
+                    "id": ".pB[Gv_avty;s]kv7l-z",
+                    "fields": {
+                      "NUM": 0
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "RETURN": {
+            "block": {
+              "type": "java_local_var_get",
+              "id": "!orrdj:|`zqm]D?*0{Y]",
+              "fields": {
+                "VAR": {
+                  "id": "_FpkfTP{qtq:Rc0KxavG"
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "type": "java_static_method_return",
+        "id": "5*V%UcES9/n/O@Y1_Or$",
+        "x": -22,
+        "y": 140,
+        "extraState": "<mutation xmlns=\"http://www.w3.org/1999/xhtml\"></mutation>",
+        "fields": {
+          "NAME": "aufgabe2"
+        },
+        "inputs": {
+          "STACK": {
+            "block": {
+              "type": "java_local_var_set",
+              "id": "e1aSt11vq~5PZQiB%AIb",
+              "fields": {
+                "VAR": {
+                  "id": "3L~{G4=lVjX[VwWeNCip"
+                }
+              }
+            }
+          },
+          "RETURN": {
+            "block": {
+              "type": "java_local_var_get",
+              "id": "G8@Q1bhED9wKHvFU]@E?",
+              "fields": {
+                "VAR": {
+                  "id": "3L~{G4=lVjX[VwWeNCip"
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "type": "java_static_method_noreturn",
+        "id": "l#r1gx-5w!Y/C`i2sBy9",
+        "x": -16,
+        "y": 569,
+        "extraState": "<mutation xmlns=\"http://www.w3.org/1999/xhtml\"><arg name=\"String[] arr\" varid=\"+8Ib/[Rh#/lm^,Tz~BYC\"></arg></mutation>",
+        "fields": {
+          "NAME": "aufgabe5"
         }
       }
     ]
-  }
+  },
+  "variables": [
+    {
+      "name": "int[] arr",
+      "id": "Gs/!r}y*[3tR7-[^Pa+{",
+      "type": "param"
+    },
+    {
+      "name": "String[] arr",
+      "id": "+8Ib/[Rh#/lm^,Tz~BYC",
+      "type": "param"
+    },
+    {
+      "name": "arr1",
+      "id": "a1*?E_0ZN^vjSx8A,Z-+",
+      "type": "local"
+    },
+    {
+      "name": "arr2",
+      "id": "3L~{G4=lVjX[VwWeNCip",
+      "type": "local"
+    },
+    {
+      "name": "i",
+      "id": "=DCTBEdL8xuAejb1qOQ:",
+      "type": "local"
+    },
+    {
+      "name": "summe",
+      "id": "_FpkfTP{qtq:Rc0KxavG",
+      "type": "local"
+    },
+    {
+      "name": "array",
+      "id": "h{icCW5llL?#iU#EKUq=",
+      "type": "local"
+    }
+  ]
 }
