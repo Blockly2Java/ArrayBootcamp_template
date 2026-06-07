@@ -9,17 +9,13 @@
 ---
 
 
-## Aufgabe: Ein Toller Titel
+## Aufgabe: Arraybootcamp
 
-TODO: 1-2 Sätze allgemeines blabla, damit man sich zurecht findet.
+In dieser Aufgabe üben wir die Grundlagen von Arrays, bevor wir in der nächsten Aufgabe dann wieder mit Grafik und Objekten im Array arbeiten. 
 
 ---
 
 ## Klassendiagramm
-
-TODO: Repository im PlantUML Pfad anpassen, Klassendiagramm im parent Repository anpassen und Blabla entfernen
-
-Dann schon ziemlich schnell das Klassendiagramm, sonst geht es unter. Wird aus den Shared resources geladen, die funktionieren überall. Die tasks werden beim Artemis export automatisch aktiviert, in normalem Markdown sind sie versteckt.
 
 [//]: #[task][](structStructural[all])
 
@@ -27,25 +23,32 @@ Dann schon ziemlich schnell das Klassendiagramm, sonst geht es unter. Wird aus d
 
 
 
-
-
-
-
 ---
 
 ## Beschreibung - Vorlage
 
-TODO: Vorlage beschreiben
+Die Vorlage ist diesmal sehr einfach. Alle Methodenköpfe sind bereits angelegt und du musst nur die Funktionalität ergänzen.
 
 ---
 
-## Aufgaben - Der Spaziergang
+## Aufgaben
 
-TODO: Aufgaben beschreiben, Beschreibungsvorlage entfernen und Artemis Tasks einfügen
+[//]: #[task][](testA1())
+1. Gib ein Array mit den Zahl 1, 2 und 3 zurück.
 
+[//]: #[task][](testA2())
+2. Gib ein int-Array mit den ersten 11 2er-Potenzen (beginnend bei 2^0 und bis 2^10) zurück.
 
-[//]: #[task][](testMain()) 
-- Du hast eine ganz tolle Aufgabe!
+[//]: #[task][](testA3())
+3. Gib das erste Element des Arrays `arr` (Parameter der Methode) zurück.
 
+[//]: #[task][](testA4())
+4. Gib das letzte Element des Arrays `arr` (Parameter der Methode) zurück.
+
+[//]: #[task][](testA5())
+5. Bearbeite das Array, das du als Parameter bekommst, so, dass es an jedem Index genau das doppelte wie vorher enthält und gib es anschließend zurück. Multiplipziere also jedes Element mit 2.
+
+[//]: #[task][](testA6())
+6. Gib die Summe aller Elemente im Array, dass du als Parameter bekommst, zurück.
 
 ---
