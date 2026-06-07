@@ -17,13 +17,11 @@ TODO: 1-2 Sätze allgemeines blabla, damit man sich zurecht findet.
 
 ## Klassendiagramm
 
-TODO: Erklärung entfernen
+TODO: Repository im PlantUML Pfad anpassen, Klassendiagramm im parent Repository anpassen und Blabla entfernen
 
 Dann schon ziemlich schnell das Klassendiagramm, sonst geht es unter. Wird aus den Shared resources geladen, die funktionieren überall. Die tasks werden beim Artemis export automatisch aktiviert, in normalem Markdown sind sie versteckt.
 
 [//]: #[task][](structStructural[all])
-
-TODO: Repository im PlantUML Pfad anpassen und Klassendiagramm im parent Repository anpassen
 
 ![CD](http://www.plantuml.com/plantuml/proxy?cache=no&fmt=svg&src=https://raw.githubusercontent.com/Blockly2Java/Template/main/shared_resources/cd.puml)
 
