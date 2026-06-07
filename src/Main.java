@@ -27,10 +27,12 @@ public class Main {
         return arr2;
     }
 
-    public static void aufgabe3(String[] arr) {
+    public static String aufgabe3(String[] arr) {
+        return "Platzhalter";
     }
 
-    public static void aufgabe4(int[] arr) {
+    public static int aufgabe4(int[] arr) {
+        return -1;
     }
 
     public static void aufgabe5(String[] arr) {

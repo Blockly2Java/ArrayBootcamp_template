@@ -5,8 +5,8 @@
       {
         "type": "java_static_method_noreturn",
         "id": "0-~]xj!ER5LuqkjtzKSY",
-        "x": -12,
-        "y": -173,
+        "x": -23,
+        "y": -182,
         "extraState": "<mutation xmlns=\"http://www.w3.org/1999/xhtml\"></mutation>",
         "icons": {
           "comment": {
@@ -47,8 +47,8 @@
       {
         "type": "java_static_method_return",
         "id": "VrM*3.|p]43]/5=%lWyP",
-        "x": -15,
-        "y": -73,
+        "x": -20,
+        "y": -85,
         "extraState": "<mutation xmlns=\"http://www.w3.org/1999/xhtml\"></mutation>",
         "fields": {
           "NAME": "aufgabe1"
@@ -81,28 +81,50 @@
       {
         "type": "java_static_method_return",
         "id": "Y:Mg?yGt{|~gqyjDEYyV",
-        "x": -17,
-        "y": 308,
+        "x": -21,
+        "y": 121,
         "extraState": "<mutation xmlns=\"http://www.w3.org/1999/xhtml\"><arg name=\"String[] arr\" varid=\"_~qm%BF%~U`$5-w{[!}9\"></arg></mutation>",
         "fields": {
-          "NAME": "aufgabe3"
+          "NAME": "String aufgabe3"
+        },
+        "inputs": {
+          "RETURN": {
+            "block": {
+              "type": "text",
+              "id": "4[$s5_?($b{4Z#6n@FFw",
+              "fields": {
+                "TEXT": "Platzhalter"
+              }
+            }
+          }
         }
       },
       {
         "type": "java_static_method_return",
         "id": "F[y,*sLZ,-9fhh.}vXOC",
-        "x": -16,
-        "y": 439,
+        "x": -23,
+        "y": 220,
         "extraState": "<mutation xmlns=\"http://www.w3.org/1999/xhtml\"><arg name=\"int[] arr\" varid=\"W8_qiK8R!yF665s]]!{P\"></arg></mutation>",
         "fields": {
-          "NAME": "aufgabe4"
+          "NAME": "int aufgabe4"
+        },
+        "inputs": {
+          "RETURN": {
+            "block": {
+              "type": "math_number",
+              "id": "ZG2y*WM!d/F:,hMlK|w@",
+              "fields": {
+                "NUM": -1
+              }
+            }
+          }
         }
       },
       {
         "type": "java_static_method_return",
         "id": "q8]tfZ#DDU_$+l.=pRah",
-        "x": -17,
-        "y": 727,
+        "x": -16,
+        "y": 416,
         "extraState": "<mutation xmlns=\"http://www.w3.org/1999/xhtml\"><arg name=\"int[] arr\" varid=\"BFY`Oyi]AFX;5c4lRIq7\"></arg></mutation>",
         "fields": {
           "NAME": "aufgabe6"
@@ -124,8 +146,8 @@
       {
         "type": "java_static_method_return",
         "id": "ko(u{ZuLC-ufI+`@56iC",
-        "x": -18,
-        "y": 926,
+        "x": -17,
+        "y": 520,
         "extraState": "<mutation xmlns=\"http://www.w3.org/1999/xhtml\"><arg name=\"int[] arr\" varid=\"xSL1eCR0nL,a5.y)$er=\"></arg></mutation>",
         "fields": {
           "NAME": "aufgabe7"
@@ -169,8 +191,8 @@
       {
         "type": "java_static_method_return",
         "id": "5*V%UcES9/n/O@Y1_Or$",
-        "x": -22,
-        "y": 140,
+        "x": -20,
+        "y": 16,
         "extraState": "<mutation xmlns=\"http://www.w3.org/1999/xhtml\"></mutation>",
         "fields": {
           "NAME": "aufgabe2"
@@ -203,8 +225,8 @@
       {
         "type": "java_static_method_noreturn",
         "id": "l#r1gx-5w!Y/C`i2sBy9",
-        "x": -16,
-        "y": 569,
+        "x": -19,
+        "y": 321,
         "extraState": "<mutation xmlns=\"http://www.w3.org/1999/xhtml\"><arg name=\"String[] arr\" varid=\"+8Ib/[Rh#/lm^,Tz~BYC\"></arg></mutation>",
         "fields": {
           "NAME": "aufgabe5"
