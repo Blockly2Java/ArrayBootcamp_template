@@ -29,6 +29,8 @@ In dieser Aufgabe üben wir die Grundlagen von Arrays, bevor wir in der nächste
 
 Die Vorlage ist diesmal sehr einfach. Alle Methodenköpfe sind bereits angelegt und du musst nur die Funktionalität ergänzen.
 
+Wie immer ist auch eine `main()` Methode erhalten, damit du deinen Code testen kannst. Der Aufruf für `aufgabe1()` zusammen mit `println` ist bereits enthalten. Für die Folgeaufgaben, tausche einfach den Aufruf aus.
+
 ---
 
 ## Aufgaben
