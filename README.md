@@ -27,7 +27,7 @@ In dieser Aufgabe üben wir die Grundlagen von Arrays, bevor wir in der nächste
 
 ## Beschreibung - Vorlage
 
-Die Vorlage ist diesmal sehr einfach. Alle Methodenköpfe sind bereits angelegt und du musst nur die Funktionalität ergänzen.
+Die Vorlage ist diesmal sehr einfach. Alle Methodenköpfe sind bereits angelegt und du musst nur die Funktionalität ergänzen. Ein paar Variablen, damit es leicht wird, sind auch enthalten.
 
 Wie immer ist auch eine `main()` Methode erhalten, damit du deinen Code testen kannst. Der Aufruf für `aufgabe1()` zusammen mit `println` ist bereits enthalten. Für die Folgeaufgaben, tausche einfach den Aufruf aus.
 
@@ -39,7 +39,7 @@ Wie immer ist auch eine `main()` Methode erhalten, damit du deinen Code testen k
 1. Gib ein Array mit den Zahl 1, 2 und 3 zurück.
 
 [//]: #[task][](testA2())
-2. Gib ein int-Array mit den ersten 11 2er-Potenzen (beginnend bei 2^0 und bis 2^10) zurück.
+1. Gib ein int-Array mit den ersten 11 2er-Potenzen (beginnend bei 2^0 und bis 2^10) zurück. Achtung: Das Potenzieren in Java erzeugt immer Kommazahlen (`double`). Erzeuge dein Array entsprechend.
 
 [//]: #[task][](testA3())
 3. Gib das erste Element des Arrays `arr` (Parameter der Methode) zurück.
@@ -48,9 +48,12 @@ Wie immer ist auch eine `main()` Methode erhalten, damit du deinen Code testen k
 4. Gib das letzte Element des Arrays `arr` (Parameter der Methode) zurück.
 
 [//]: #[task][](testA5())
-5. Bearbeite das Array, das du als Parameter bekommst, so, dass es an jedem Index genau das doppelte wie vorher enthält und gib es anschließend zurück. Multiplipziere also jedes Element mit 2.
+5. Gib alle Elemente des Arrays `arr` (Parameter der Methode) in einer eigenen Zeile auf der Konsole aus (`println`).
 
 [//]: #[task][](testA6())
-6. Gib die Summe aller Elemente im Array, dass du als Parameter bekommst, zurück.
+6. Bearbeite das Array, das du als Parameter bekommst, so, dass es an jedem Index genau das doppelte wie vorher enthält und gib es anschließend zurück. Multiplipziere also jedes Element mit 2.
+
+[//]: #[task][](testA7())
+7. Gib die Summe aller Elemente im Array, dass du als Parameter bekommst, zurück.
 
 ---
