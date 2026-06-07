@@ -17,13 +17,13 @@ public class Main {
         System.out.println(aufgabe1());
     }
 
-    public static Object aufgabe1() {
-        Object arr1;    // Wert fehlt
+    public static int[] aufgabe1() {
+        int[] arr1;    // Wert fehlt
         return arr1;
     }
 
-    public static Object aufgabe2() {
-        Object arr2;    // Wert fehlt
+    public static double[] aufgabe2() {
+        double[] arr2;    // Wert fehlt
         return arr2;
     }
 
