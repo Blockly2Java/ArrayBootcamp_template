@@ -36,7 +36,7 @@ Wie immer ist auch eine `main()` Methode erhalten, damit du deinen Code testen k
 ## Aufgaben
 
 [//]: #[task][](testA1())
-1. Gib ein Array mit den Zahl 1, 2 und 3 zurück.
+1. Gib ein Array mit den Zahlen 1, 2 und 3 zurück.
 
 [//]: #[task][](testA2())
 2. Gib ein int-Array mit den ersten 11 2er-Potenzen (beginnend bei 2^0 und bis 2^10) zurück. Achtung: Das Potenzieren in Java erzeugt immer Kommazahlen (`double`). Erzeuge dein Array entsprechend.
