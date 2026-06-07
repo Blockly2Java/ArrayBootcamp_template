@@ -2,7 +2,8 @@
 
 | Token-URL kopieren | Klonen | URL einfügen |
 | :---: | :---: | :---: |
-| ![b2j_img_1.png](https://github.com/Blockly2Java/Template/blob/main/shared_resources/b2j_img_1.png?raw=true) | ![b2j_img_2.png](https://github.com/Blockly2Java/Template/blob/main/shared_resources/b2j_img_2.png?raw=true) | ![b2j_img_3.png](https://github.com/Blockly2Java/Template/blob/main/shared_resources/b2j_img_2.png?raw=true) |
+| ![b2j_img_1.png](https://github.com/Blockly2Java/Template/blob/main/shared_resources/b2j_img_1.png?raw=true) | ![b2j_img_2.png](https://github.com/Blockly2Java/Template/blob/main/shared_resources/b2j_img_2.png?raw=true) | ![b2j_img_3.png](https://github.com/Blockly2Java/Template/blob/main/shared_resources/b2j_img_3.png?raw=true) |
+| ![b2j_img_1b.png](https://github.com/Blockly2Java/Template/blob/main/shared_resources/b2j_img_1b.png?raw=true) | *<-- nur Github* | |
 
 
 ---
